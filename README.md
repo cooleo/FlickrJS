@@ -20,9 +20,10 @@ flickrJS.getPulicPhotos().then(function (result) {
         console.log('err:%s',err);
     });
 </pre>
-   // search photos
+  
    </pre>
-
+    // search photos
+<pre>
 flickrJS.get("photos.search", req.body).then(function (result) {
         console.log(result);
     }).catch(function (err) {
