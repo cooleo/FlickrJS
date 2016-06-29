@@ -21,7 +21,7 @@ flickrJS.getPulicPhotos().then(function (result) {
     });
 </pre>
   
-   </pre>
+  
     // search photos
 <pre>
 flickrJS.get("photos.search", req.body).then(function (result) {

@@ -3,7 +3,7 @@
  */
 var FlickrJS = require('FlickrJS');
 var keys = {'api_key': 'API KEY HERE'};
-var flickrJS = new Flickr(keys);
+var flickrJS = new FlickrJS(keys);
 
 
     //get public photos
