@@ -9,7 +9,7 @@ npm install flickrjs
 <pre>
 var FlickrJS = require('FlickrJS');
 var keys = {'api_key': 'API KEY HERE'};
-var flickrJS = new Flickr(keys);
+var flickrJS = new FlickrJS(keys);
 </pre>
 
     //get public photos

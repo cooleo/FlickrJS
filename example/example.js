@@ -1,7 +1,7 @@
 /**
  * Created by nguyendanghung on 6/29/16.
  */
-var FlickrJS = require('flickrjs');
+var FlickrJS = require('FlickrJS');
 var keys = {'api_key': 'API KEY HERE'};
 var flickrJS = new Flickr(keys);
 
