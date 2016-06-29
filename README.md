@@ -1,2 +1,3 @@
-# flickrjs
+# FlickrJS
 flickr nodejs wrapper api
+
