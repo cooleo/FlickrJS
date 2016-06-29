@@ -1,6 +1,6 @@
 {
   "name": "FlickrJS",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "flickr nodejs sdk wrapper",
   "main": "index.js",
   "scripts": {
