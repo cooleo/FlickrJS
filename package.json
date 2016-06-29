@@ -1,0 +1,30 @@
+{
+  "name": "flickrjs",
+  "version": "1.0.0",
+  "description": "flickr nodejs sdk wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooleo/flickrjs.git"
+  },
+  "keywords": [
+    "flickr",
+    "nodejs",
+    "api"
+  ],
+  "author": "hung nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cooleo/flickrjs/issues"
+  },
+  "homepage": "https://github.com/cooleo/flickrjs#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "feedparser": "^1.1.4",
+    "lodash": "^4.13.1",
+    "request": "^2.72.0"
+  }
+}
