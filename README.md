@@ -32,3 +32,7 @@ flickrJS.get("photos.search", req.body).then(function (result) {
     
   </pre>
   
+  
+
+For More Methods refer to http://www.flickr.com/services/api/  
+  
